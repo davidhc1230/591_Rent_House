@@ -1,0 +1,6 @@
+numpy==2.2.1
+paddleocr==2.9.1
+paddleocr.egg==info
+Pillow==11.1.0
+selenium==4.27.1
+webdriver_manager==4.0.2
